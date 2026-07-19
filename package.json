@@ -1,0 +1,14 @@
+{
+  "name": "when-we-game-server",
+  "version": "1.0.0",
+  "description": "Game scheduling app backend",
+  "main": "server.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
